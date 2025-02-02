@@ -27,9 +27,9 @@ This project explores and analyzes Zomato's restaurant data to uncover valuable 
 ```  
 
 ## 🔥 How to Run the Project  
-1. Clone the repository  
+1. Project link  
 ```bash  
-git clone https://https://github.com/ravraj196/zomato_pjct/blob/main/Zomato%20Project.ipynb  
+github.com/ravraj196/zomato_pjct/blob/main/Zomato%20Project.ipynb  
 ```  
 2. Install dependencies  
 ```bash  
